@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bfe053d5fe.vanobtx.cn/sitemap.xml
